@@ -1,1 +1,1 @@
-# server-component
+# Server component
