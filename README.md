@@ -13,6 +13,7 @@ This server component serves as a link between household or business user that c
 ![Image of Publications](https://github.com/kipja1/server-component/blob/main/photos/publications.PNG)
 
 ## API documentation
+API documentation was generated using Doxygen. It is available at https://kipja1.github.io/server-component/html/index.html
 
 ## Installation
 
