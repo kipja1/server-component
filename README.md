@@ -19,3 +19,4 @@ This server component serves as a link between household or business user that c
 ## Usage examples
 
 ## License
+Our proposed solution is published under GNU General Public License v3.0.
