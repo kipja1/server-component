@@ -15,9 +15,7 @@ This server component serves as a link between household or business user that c
 ## API documentation
 API documentation was generated using Doxygen. It is available at https://kipja1.github.io/server-component/html/index.html
 
-## Installation
-
-## Usage examples
+## User guide and usage examples
 
 ## License
 Our proposed solution is published under GNU General Public License v3.0.
