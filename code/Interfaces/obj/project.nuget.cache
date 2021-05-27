@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7+YWGS0FTQe6Tyk3EvvbT46vjrF8naPxESqPsTKNUEATZG2IuvsryhNSE7dYPEIw+jD3MwkjjXCpfanSE5EeZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kipja\\Google Drive\\Arnas_Nakrosis_RESTfull\\Components\\Interfaces\\Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kipja\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kipja\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+C:\Users\Arnas\source\repos\Components\Interfaces\bin\Debug\netstandard2.0\Interfaces.deps.json
+C:\Users\Arnas\source\repos\Components\Interfaces\bin\Debug\netstandard2.0\Interfaces.dll
+C:\Users\Arnas\source\repos\Components\Interfaces\bin\Debug\netstandard2.0\Interfaces.pdb
+C:\Users\Arnas\source\repos\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.csprojAssemblyReference.cache
+C:\Users\Arnas\source\repos\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Arnas\source\repos\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfo.cs
+C:\Users\Arnas\source\repos\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Arnas\source\repos\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.dll
+C:\Users\Arnas\source\repos\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.pdb
+C:\Users\kipja\OneDrive\KTU\Component based software engineering\individual work\Arnas_Nakrosis_RESTfull\Components\Interfaces\bin\Debug\netstandard2.0\Interfaces.deps.json
+C:\Users\kipja\OneDrive\KTU\Component based software engineering\individual work\Arnas_Nakrosis_RESTfull\Components\Interfaces\bin\Debug\netstandard2.0\Interfaces.dll
+C:\Users\kipja\OneDrive\KTU\Component based software engineering\individual work\Arnas_Nakrosis_RESTfull\Components\Interfaces\bin\Debug\netstandard2.0\Interfaces.pdb
+C:\Users\kipja\OneDrive\KTU\Component based software engineering\individual work\Arnas_Nakrosis_RESTfull\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.csprojAssemblyReference.cache
+C:\Users\kipja\OneDrive\KTU\Component based software engineering\individual work\Arnas_Nakrosis_RESTfull\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\kipja\OneDrive\KTU\Component based software engineering\individual work\Arnas_Nakrosis_RESTfull\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfo.cs
+C:\Users\kipja\OneDrive\KTU\Component based software engineering\individual work\Arnas_Nakrosis_RESTfull\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\kipja\OneDrive\KTU\Component based software engineering\individual work\Arnas_Nakrosis_RESTfull\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.dll
+C:\Users\kipja\OneDrive\KTU\Component based software engineering\individual work\Arnas_Nakrosis_RESTfull\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.pdb
+D:\Downloads\Components\Interfaces\bin\Debug\netstandard2.0\Interfaces.deps.json
+D:\Downloads\Components\Interfaces\bin\Debug\netstandard2.0\Interfaces.dll
+D:\Downloads\Components\Interfaces\bin\Debug\netstandard2.0\Interfaces.pdb
+D:\Downloads\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.csprojAssemblyReference.cache
+D:\Downloads\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfoInputs.cache
+D:\Downloads\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfo.cs
+D:\Downloads\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\Downloads\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.dll
+D:\Downloads\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.pdb
+C:\Users\kipja\Google Drive\Arnas_Nakrosis_RESTfull\Components\Interfaces\bin\Debug\netstandard2.0\Interfaces.deps.json
+C:\Users\kipja\Google Drive\Arnas_Nakrosis_RESTfull\Components\Interfaces\bin\Debug\netstandard2.0\Interfaces.dll
+C:\Users\kipja\Google Drive\Arnas_Nakrosis_RESTfull\Components\Interfaces\bin\Debug\netstandard2.0\Interfaces.pdb
+C:\Users\kipja\Google Drive\Arnas_Nakrosis_RESTfull\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.csprojAssemblyReference.cache
+C:\Users\kipja\Google Drive\Arnas_Nakrosis_RESTfull\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\kipja\Google Drive\Arnas_Nakrosis_RESTfull\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfo.cs
+C:\Users\kipja\Google Drive\Arnas_Nakrosis_RESTfull\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\kipja\Google Drive\Arnas_Nakrosis_RESTfull\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.dll
+C:\Users\kipja\Google Drive\Arnas_Nakrosis_RESTfull\Components\Interfaces\obj\Debug\netstandard2.0\Interfaces.pdb
