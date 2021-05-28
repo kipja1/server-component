@@ -19,5 +19,12 @@ API documentation was generated using Doxygen. It is available at https://kipja1
 
 In order for potential user (grid manager) to work with our created component, certain steps have to be made:
 
+1.	User creates an application for data acquisition and/or visualizing
+2.	Downloads and places Server component. 
+3.	Includes published API to his application project
+4.	Downloads User or Generator executable program
+5.	Launches Server component and at least one of additional User or Generator applications
+6.	Uses defined commands in his own application to gather data
+
 ## License
 Our proposed solution is published under GNU General Public License v3.0.
