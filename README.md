@@ -27,6 +27,17 @@ In order for potential user (grid manager) to work with our created component, c
 6.	Uses defined commands in his own application to gather data
 
 One of usage examples – creating instance of User service which we called GUIService to use API commands.
+![Image 1](https://github.com/kipja1/server-component/blob/main/photos/1.PNG)
+
+And now we can use IService API to get battery power and ID data, user electricity consumption data and user IDs.
+![Image 2](https://github.com/kipja1/server-component/blob/main/photos/2.PNG)
+
+For this usage example we show what data is received when three User application instances are launched imitating three energy consumers connected to grid. Received data can be seen from watch window information shown below. batteryID field has two values in the whole list that go one after the other – it means that two of three users have active battery storages.
+
+![Image 3](https://github.com/kipja1/server-component/blob/main/photos/3.PNG)
+
+In the case with energy usage we see three unique IDs in userID field meaning that there are three energy consumers connected. Their consumption data in kWh’s is recorded every minute.
+![Image 4](https://github.com/kipja1/server-component/blob/main/photos/4.PNG)
 
 ## Installation notes and dependencies
 
