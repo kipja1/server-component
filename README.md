@@ -26,5 +26,13 @@ In order for potential user (grid manager) to work with our created component, c
 5.	Launches Server component and at least one of additional User or Generator applications
 6.	Uses defined commands in his own application to gather data
 
+One of usage examples – creating instance of User service which we called GUIService to use API commands.
+
+## Installation notes and dependencies
+
+To be able to use Server component for consumption monitoring, individual users have to launch their own User application. For renewable energy device that is generating power, Generator application is launched. 
+
+However there is no specific requirements how much User and Generator instances there has to be. In case where user is just a typical energy consumer, one User instance is launched at household.
+
 ## License
 Our proposed solution is published under GNU General Public License v3.0.
