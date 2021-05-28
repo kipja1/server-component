@@ -15,7 +15,7 @@ This server component serves as a link between household or business user that c
 ## API documentation
 API documentation was generated using Doxygen. It is available at https://kipja1.github.io/server-component/html/index.html
 
-## User guide and usage examples
+## User guide and usage example
 
 In order for potential user (grid manager) to work with our created component, certain steps have to be made:
 
