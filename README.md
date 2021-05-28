@@ -17,5 +17,7 @@ API documentation was generated using Doxygen. It is available at https://kipja1
 
 ## User guide and usage examples
 
+In order for potential user (grid manager) to work with our created component, certain steps have to be made:
+
 ## License
 Our proposed solution is published under GNU General Public License v3.0.
